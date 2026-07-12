@@ -1,0 +1,2 @@
+# Local, machine-specific files that should not be published
+.claude/settings.local.json
