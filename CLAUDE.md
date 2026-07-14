@@ -5,6 +5,30 @@ The website for **Early Start Ventures**, the consulting/advisory company of
 **Torstein Braaten** (the user's father). It will be published to a
 **GoDaddy Managed WordPress** site.
 
+## Creative direction (from the owner — overrides anything that conflicts)
+- The company should come across as a **simple, small consulting firm** that
+  is deeply expert in capital markets and crypto. Not a large business — no
+  big-corporate feel, no flashy imagery. Understated, credible, expert.
+  **The person IS the brand.**
+- Copy: confident and expert but modest in scale — "consulting practice"
+  energy, not "global firm" energy. Emphasize deep expertise in capital
+  markets compliance and crypto/digital asset regulation. Avoid phrases
+  implying teams, offices worldwide, or scale the firm doesn't have. Use
+  "I/Torstein" or firm-singular voice where natural.
+- Pictures support, not dominate: the headshot on the About page; at most
+  one subtle stock hero/section background. All images compressed for fast
+  loading, with alt text.
+
+## Images (in `images/`)
+- Originals (kept locally, gitignored because they are multi-MB):
+  `torstein-headshot.jpg` plus three Unsplash stock photos.
+- Optimized web copies (committed, used by the site):
+  - `images/headshot.jpg` — Torstein's headshot, About page.
+  - `images/toronto-skyline.jpg` — Toronto skyline, subtle homepage hero
+    background (fits the Toronto-based positioning).
+- The unused stock photos (executive office, boardroom) were rejected as
+  too big-corporate.
+
 ## Branding & messaging
 - **Slogan: "Empowering Startups to Succeed"** — used as the main homepage
   hero headline.
@@ -56,8 +80,8 @@ The bio on the site is written as polished professional prose, not a list.
 - Clean, professional, finance/consulting look; dark navy and white with a
   muted gold accent.
 - Consistent header navigation and footer across all pages.
-- **Placeholder image boxes** with clear labels (e.g. "Headshot here")
-  wherever photos will go, so real photos can be swapped in later.
+- Real photos are now in place (see Images section) — no placeholder boxes
+  remain.
 
 ## Technical approach
 - Plain HTML/CSS/JS, no build tools or external dependencies.
