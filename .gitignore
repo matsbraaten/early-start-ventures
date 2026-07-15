@@ -6,3 +6,10 @@
 images/torstein-headshot.jpg
 images/*-unsplash.jpg
 images/Logo.png
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
