@@ -27,8 +27,9 @@ The website for **Early Start Ventures**, the consulting/advisory company of
   - `images/headshot.jpg` — Torstein's headshot, About page.
   - `images/toronto-skyline.jpg` — Toronto skyline, subtle homepage hero
     background (fits the Toronto-based positioning).
-  - `images/logo-white.png` — ESV wordmark recolored white on transparent,
-    cropped; sits before the site name in every page header.
+  - `images/logo-gold.png` — ESV wordmark recolored in the muted gold
+    accent (#c9a227) on transparent, cropped; sits before the site name in
+    every page header.
   - `images/favicon.png` — white ESV on a navy square, browser tab icon
     on every page.
 - The unused stock photos (executive office, boardroom) were rejected as
