@@ -21,11 +21,16 @@ The website for **Early Start Ventures**, the consulting/advisory company of
 
 ## Images (in `images/`)
 - Originals (kept locally, gitignored because they are multi-MB):
-  `torstein-headshot.jpg` plus three Unsplash stock photos.
+  `torstein-headshot.jpg`, `Logo.png` (black "ESV" wordmark on white),
+  plus three Unsplash stock photos.
 - Optimized web copies (committed, used by the site):
   - `images/headshot.jpg` — Torstein's headshot, About page.
   - `images/toronto-skyline.jpg` — Toronto skyline, subtle homepage hero
     background (fits the Toronto-based positioning).
+  - `images/logo-white.png` — ESV wordmark recolored white on transparent,
+    cropped; sits before the site name in every page header.
+  - `images/favicon.png` — white ESV on a navy square, browser tab icon
+    on every page.
 - The unused stock photos (executive office, boardroom) were rejected as
   too big-corporate.
 

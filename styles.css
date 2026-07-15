@@ -53,8 +53,15 @@ header.site {
   letter-spacing: 0.04em;
   color: #fff;
   text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 12px;
 }
-.brand .mark { color: var(--accent); margin-right: 8px; }
+.brand-logo {
+  height: 20px;
+  width: auto;
+  display: block;
+}
 nav.main {
   display: flex;
   flex-wrap: wrap;
